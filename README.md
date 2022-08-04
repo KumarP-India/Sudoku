@@ -24,4 +24,4 @@ It lets you add the puzzle then let you play it when pressed Start, and if you w
 
 :)
 
-![This is an Project Image](https://github.com/Uniquely-Rare/Sudoku/Images/sudoku_icon-2.png)
+![This is an Project Image](https://github.com/Uniquely-Rare/Sudoku/blob/3a33dcb0e06e8af6211edef71979e17be260dfc5/Images/sudoku_icon-2.png)
