@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku ![..](https://github.com/Uniquely-Rare/Sudoku/blob/50e99f5a5b1cd961a57847ae975820c9e60ff9af/Images/sudoku_icon.png)
 This is the Sudoku GUI game created in Python as an Class XII CBSE Practical (School: Delhi Public School, Patna)!
 
 ## Use
